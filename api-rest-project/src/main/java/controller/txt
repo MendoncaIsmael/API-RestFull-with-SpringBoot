@@ -1,0 +1,2 @@
+// OpenAPI (Swagger) https://github.com/springdoc/springdoc-openapi
+implementation 'org.sprogdoc-openapi-starter-webvc-ui:2.1.0'
